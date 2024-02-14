@@ -4,6 +4,7 @@ import spotifyCloneImg from '../assets/spotify_clone.png';
 import CardsProjects from "./CardsProjects";
 import vitalCareImg from '../assets/vitalCareImg.png';
 import solisRestaurantImg from '../assets/solisRestaurantImg.png';
+import signin_page from '../assets/signin_page.png';
 
 
 function Projects() {
@@ -53,6 +54,13 @@ function Projects() {
                             alt='Solis restaurant home page'
                             img={solisRestaurantImg}
                             description='Solis Restaurant'
+                        />
+
+                        <CardsProjects
+                            link='https://jet-set.netlify.app/'
+                            alt='sign in page'
+                            img={signin_page}
+                            description='Sing-in Page'
                         />
 
                     </Row>
