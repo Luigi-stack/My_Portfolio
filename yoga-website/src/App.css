@@ -1,0 +1,6 @@
+.welcome_page {
+  background-image: url("src/assets/images/welcome_page.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
