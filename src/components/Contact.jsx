@@ -38,7 +38,7 @@ function Contact() {
                 <Row className="mb-5">
                     <Col sm={12} md={4} className="d-flex flex-column align-items-center">
                         <h3>Address</h3>
-                        <Link to="#" className="text-secondary fs-5 link-offset-2 link-underline link-underline-opacity-0" target="_blank" rel="noopener noreferrer">Bruxelles</Link>
+                        <Link to="" className="text-secondary fs-5 link-offset-2 link-underline link-underline-opacity-0" target="_blank" rel="noopener noreferrer">Bruxelles</Link>
                     </Col>
 
                     <Col sm={12} md={4} className="d-flex flex-column align-items-center">
