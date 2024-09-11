@@ -1,5 +1,4 @@
 import { Container, Row, Col } from "react-bootstrap";
-import netflixCloneImg from '../assets/netflix_clone.png';
 import spotifyCloneImg from '../assets/spotify_clone.png';
 import CardsProjects from "./CardsProjects";
 import vitalCareImg from '../assets/vitalCareImg.png';
@@ -35,12 +34,6 @@ function Projects() {
                             description='Spotify Clone'
                         />
 
-                        <CardsProjects
-                            link='https://netflix-clone2-luigi-iossa.netlify.app'
-                            alt='Netflix img'
-                            img={netflixCloneImg}
-                            description='Netflix Clone'
-                        />
 
                         <CardsProjects
                             link='https://vitalcare-clinic.netlify.app'
