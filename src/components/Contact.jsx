@@ -38,7 +38,7 @@ function Contact() {
                 <Row className="mb-5">
                     <Col sm={12} md={4} className="d-flex flex-column align-items-center">
                         <h3>Address</h3>
-                        <Link to="https://maps.app.goo.gl/npknn2kozwny5i4s9" className="text-secondary fs-5 link-offset-2 link-underline link-underline-opacity-0" target="_blank" rel="noopener noreferrer">Rue FN 21, Dakar - Senegal</Link>
+                        <Link to="#" className="text-secondary fs-5 link-offset-2 link-underline link-underline-opacity-0" target="_blank" rel="noopener noreferrer">Bruxelles</Link>
                     </Col>
 
                     <Col sm={12} md={4} className="d-flex flex-column align-items-center">
@@ -49,7 +49,6 @@ function Contact() {
                     <Col sm={12} md={4} className="d-flex flex-column align-items-center">
                         <h3>Phone</h3>
                         <Link to="tel:+393801520069" className="text-secondary fs-5 link-offset-2 link-underline link-underline-opacity-0">IT +39 3801520069</Link>
-                        <Link to="tel:+221778756960" className="text-secondary fs-5 link-offset-2 link-underline link-underline-opacity-0">SN +221 778756960</Link>
                     </Col>
                 </Row>
                 <Row>
